@@ -1,4 +1,4 @@
-# this is a different title
+# Class-1-Repository!
 
 This is a brief description of the repo.
 It is an example for the workshop. 
